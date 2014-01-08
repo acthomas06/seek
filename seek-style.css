@@ -25,9 +25,3 @@ body {
 	cursor: pointer;
 	background-color: #4c4c4c;
 }
-
-#seekimg {
-	padding: 0;
-	border: 3px solid #4c4c4c;
-	border-radius: 10px;
-}
