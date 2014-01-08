@@ -1,3 +1,6 @@
+body {
+	background-color: #28a3df;
+}
 #searchbox {
 	text-align: center;
 	width: 300px;
@@ -9,15 +12,25 @@
 
 #seekform {
 	margin: 50px;
+	text-align: center;
 }
 
 #button {
-	display: block;
+	height: 40px;
+	width: 100px;
 	margin-top: 15px;
-	padding: 10px;
 	font-family: Trebuchet;
+	font-weight: bold;
+	font-size: 18px;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	background-color: #4c4c4c;
 }
 
 #seekimg {
 	margin: 10px;
+	text-align: center;
+	border: 3px solid black;
+	border-radius: 10px;
 }
