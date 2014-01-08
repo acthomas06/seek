@@ -2,9 +2,9 @@ body {
 	background-color: #28a3df;
 }
 #searchbox {
-	text-align: center;
 	width: 300px;
 	height: 50px;
+	text-align: center;
 	font-family: Trebuchet, Lucida;
 	font-size: 20px;
 	font-weight: italic;
@@ -12,7 +12,6 @@ body {
 
 #seekform {
 	margin: 50px;
-	text-align: center;
 }
 
 #button {
@@ -23,14 +22,12 @@ body {
 	font-weight: bold;
 	font-size: 18px;
 	color: white;
-	text-align: center;
 	cursor: pointer;
 	background-color: #4c4c4c;
 }
 
 #seekimg {
-	margin: 10px;
-	text-align: center;
-	border: 3px solid black;
+	padding: 0;
+	border: 3px solid #4c4c4c;
 	border-radius: 10px;
 }
