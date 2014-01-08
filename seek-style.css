@@ -1,0 +1,23 @@
+#searchbox {
+	text-align: center;
+	width: 300px;
+	height: 50px;
+	font-family: Trebuchet, Lucida;
+	font-size: 20px;
+	font-weight: italic;
+}
+
+#seekform {
+	margin: 50px;
+}
+
+#button {
+	display: block;
+	margin-top: 15px;
+	padding: 10px;
+	font-family: Trebuchet;
+}
+
+#seekimg {
+	margin: 10px;
+}
